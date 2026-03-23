@@ -1,5 +1,4 @@
-# Predicting Molecular Toxicity — PharmaHacks 2026
-# Lethal Dose
+# Predicting Molecular Toxicity (Lethal Dose) — PharmaHacks 2026
 # Challenge #1: Winner
 
 ## Team
