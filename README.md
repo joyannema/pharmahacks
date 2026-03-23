@@ -1,4 +1,6 @@
 # Predicting Molecular Toxicity — PharmaHacks 2026
+# Lethal Dose
+# Challenge #1: Winner
 
 ## Team
 Joyanne Ma, Akhila Raj, Dorra Tray
